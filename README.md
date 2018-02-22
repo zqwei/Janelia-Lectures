@@ -27,7 +27,9 @@ https://singlecell.biolab.si/download/
 ### Notebooks
 * Exercise: sections 1-3
 * Exercise\_sc: sections 4 - 7
-* Exercise\_gene: sections 8
+* Exercise\_gene: sections 8-10
+* Exercise\_classifer: sections 11-12
+* Exercise\_classifer\_multi\_data:
 
 ### Tricks or warnings
 * Supported date file: excel (blank as missing data), tab (? as missing data), csv, google sheets
@@ -40,3 +42,8 @@ https://singlecell.biolab.si/download/
 * Preferred clusterring methods: Louvain clustering (flexible shape), better than k-means (gaussian shape) and hireachical clustering.
 * Multi-selection on plots: cmd key
 * Fold change: ratio between mean expression in selected cells to that in non-selected ones
+* Classifer: random forest, logistic regression, NN etc
+* Cross-validation
+    * train classifier on partial data and test on remaining datasets
+    * performance metric: confusion matrix
+    * CV -- Test and Score moduale
