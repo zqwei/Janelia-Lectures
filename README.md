@@ -38,4 +38,5 @@ https://singlecell.biolab.si/download/
 * Add additional marker genes to the database for one's own problem (load data from excel)
 * Test if tSNE projection is faithful -- if the cluster in tSNE space (low dim) agrees with that in the orginal space (high dim). To solve this, one should do clustering first, then doing tSNE.
 * Preferred clusterring methods: Louvain clustering (flexible shape), better than k-means (gaussian shape) and hireachical clustering.
-
+* Multi-selection on plots: cmd key
+* Fold change: ratio between mean expression in selected cells to that in non-selected ones
