@@ -18,7 +18,7 @@ https://singlecell.biolab.si/download/
 9. Clustering and population discovery
 10. Differential expression
 11. Cross-validation
-12. End-to-end: reproducing of cell-type classification
+12. Reproducing of cell-type classification
 13. Combining two datasets
 14. Predicitoin on independent dataset
 15. Loading from tab-delimited
@@ -29,7 +29,7 @@ https://singlecell.biolab.si/download/
 * Exercise\_sc: sections 4 - 7
 * Exercise\_gene: sections 8-10
 * Exercise\_classifer: sections 11-12
-* Exercise\_classifer\_multi\_data:
+* Exercise\_classifer\_adv: 13-14
 
 ### Tricks or warnings
 * Supported date file: excel (blank as missing data), tab (? as missing data), csv, google sheets
