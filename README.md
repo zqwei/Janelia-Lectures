@@ -1,6 +1,9 @@
 ## Introduction
 
-This is a repo for **Single cell RNA**
+This is a repo for scOrange workshop of **Single cell genome data hands-on**
+
+### Install scOrange
+https://singlecell.biolab.si/download/
 
 
 ### Course
@@ -21,6 +24,11 @@ This is a repo for **Single cell RNA**
 15. Loading from tab-delimited
 16. Conclusion and survey
 
+### Notebooks
+* Exercise: sections 1-3
+* Exercise\_sc: sections 4 - 
 
 ### Tricks
-*. One cannot do cluster on t-SNE plots (overfitting etc.).
+* Supported date file: excel (blank as missing data), tab (? as missing data), csv, google sheets
+* Density plot: scatter plot —> class density
+* One cannot do cluster on t-SNE plots (overfitting etc.).
