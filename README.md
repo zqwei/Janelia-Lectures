@@ -26,9 +26,16 @@ https://singlecell.biolab.si/download/
 
 ### Notebooks
 * Exercise: sections 1-3
-* Exercise\_sc: sections 4 - 
+* Exercise\_sc: sections 4 - 7
+* Exercise\_gene: sections 8
 
-### Tricks
+### Tricks or warnings
 * Supported date file: excel (blank as missing data), tab (? as missing data), csv, google sheets
 * Density plot: scatter plot —> class density
 * One cannot do cluster on t-SNE plots (overfitting etc.).
+* Score genes: score using mean, variance, cv, information gain, disperity etc.
+* Additional marker gene can be found at https://www.bdbiosciences.com/documents/cd_marker_handbook.pdf
+* Add additional marker genes to the database for one's own problem (load data from excel)
+* Test if tSNE projection is faithful -- if the cluster in tSNE space (low dim) agrees with that in the orginal space (high dim). To solve this, one should do clustering first, then doing tSNE.
+* Preferred clusterring methods: Louvain clustering (flexible shape), better than k-means (gaussian shape) and hireachical clustering.
+
