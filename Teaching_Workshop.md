@@ -1,6 +1,10 @@
 # Teaching Workshop
 
-Organized by: Javier Robalino robalinoj@hhmi.org
+Organized by: **BIOINTERACTIVE HHMI**
+
+https://www.hhmi.org/biointeractive
+
+Javier Robalino robalinoj@hhmi.org
 
 Date: 05/11/2018
 
