@@ -47,3 +47,7 @@ https://singlecell.biolab.si/download/
     * train classifier on partial data and test on remaining datasets
     * performance metric: confusion matrix
     * CV -- Test and Score moduale
+    
+    
+### User group
+https://groups.google.com/forum/#!forum/scorange-users
