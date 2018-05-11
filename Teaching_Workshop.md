@@ -1,6 +1,7 @@
 # Teaching Workshop
 
-Given by: Javier Robalino robalinoj@hhmi.org
+Organized by: Javier Robalino robalinoj@hhmi.org
+
 Date: 05/11/2018
 
 ## What were some of the hardest concept for you for your peers to learn about in introductory biology?
