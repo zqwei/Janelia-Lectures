@@ -31,8 +31,11 @@ Date: 05/11/2018
     * For each question missed, identify and explan the mistake
 * Another major factor: student motivation to learn
     * Motivation predictors (expectancy, value, cost)
-    * Achievement outcomes ()
+    * Achievement outcomes (grade, future interests)
     * Expectancy-Value Theory **EVT**
+        * promote expectancy (clear goal of the task)
+        * promote value (academic interests, future course taking and career aspirations and achievement)
+    * Motivation = Expectancy + Value - Cost
 Andrews et al., 2011, CBE - Life Sceience Education
 
 # How people learn findings
