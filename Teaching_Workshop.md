@@ -1,0 +1,38 @@
+# Teaching Workshop
+
+Date: 05/11/2018
+
+# What were some of the hardest concept for you for your peers to learn about in introductory biology?
+
+* Boring
+* Long description
+* Hard to visualize
+* Abstract
+* No framework
+* Lack of motivation
+
+# Work in group 3-4 to develop a list of features of why some concepts were so difficult to learn; come up with a list of 3-4 features of effective instruction and why you think these are effective features
+
+* Engangement
+* Passionate
+* Real world application
+* Context
+* Feedback (immediate and personalized)
+* Logical structure
+* Playing with ideas in different ways
+* Procting in different ways
+
+# General findings:
+* Prior knowledge shapes learning
+* Experts organize knowledge and approach problems differently from novices
+    * What is an activity or task in which you are an expert?
+    * How did you get that way?
+* Metacognition can help students learn
+    * For each question missed, identify and explan the mistake
+* Another major factor: student motivation to learn
+    * Motivation predictors (expectancy, value, cost)
+    * Achievement outcomes ()
+    * Expectancy-Value Theory **EVT**
+Andrews et al., 2011, CBE - Life Sceience Education
+
+# How people learn findings
