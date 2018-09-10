@@ -28,6 +28,11 @@
     * `Clipping Plane` (put it under frame)
 
 # Object detection/Colorcalization using spot segmentation and Matlab XTensions
+## `3D View` -- `Spots` and `Create` Flow
+* `Segment only a region of interest`
+    * `Estimated XY diameter` using `Measurement Points` or `Slicing tool`
+    * `Background subtraction` -- 3D Mexican hat filter, solving the different dynamic range of the points in the image
+* `Different spot sizes`
 
 # Volumetric measurements using surface segmentation
 
