@@ -73,6 +73,17 @@
 ### Surface-surface coloc
 http://open.bitplane.com/tabid/235/Default.aspx?id=111
 
+
 ## 3D particle tracking
 
 ## Batch analysis and exporting
+
+### before segmentation -- background subtraction and filtering
+
+#### Background subtraction
+* reset and remove certain predefined minimum
+
+#### filtering
+* Smoothing filter
+* Attenuation correction filter -- across different channels
+* Normlize timepoints filter (photon bleaching) -- even the distribution of signal across time
