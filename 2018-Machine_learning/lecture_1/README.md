@@ -21,6 +21,15 @@
 3. Make up a simple classification problem, write code to generate synthetic data, and train a naive bayes classifier on your data with sklearn.
 4. Make up a different classification problem, and design it so that naive bayes classifier performs poorly. (Hint: make data that violates the assumption that naive bayes makes).
 
+### Text mining and Naive bayes
+1. `MultinomialNB` vs `BernoulliNB`
+    * comparing confusion table
+2. http://scikit-learn.org/stable/auto_examples/text/document_classification_20newsgroups.html
+3. Feature extraction `sklearn.feature_extraction.text`
+    * `TfidfVectorizer`: Convert a collection of raw documents to a matrix of TF-IDF features.
+    * `HashingVectorizer`: Convert a collection of text documents to a matrix of token occurrences
+4. Pre-selection of features using chi-squared test `feature_selection.SelectKBest`
+
 ### Probability / statistics
 1. Derive Bayes rule. (Hint: start with the equation relating joint distribution to a conditional distribution)
 2. Spot and understand the "mistake" on the **Intuition -> math -> stats** slide
@@ -36,3 +45,6 @@
 3. Write down the matrix equation (linear system) for 
 4. Write code to generate the matrices and vectors for the equation you wrote down in (3).
 5. Solve it yourself in code with `np.linalg.lstsq` and make sure you get the same answer as sklearn.
+
+### Misc
+1. `pipeline` vs `make_pipeline`: The only difference is that make_pipeline generates names for steps automatically.
