@@ -1,3 +1,6 @@
+## Video of tutorial
+https://jstream.hhmi.org/Panopto/Pages/Viewer.aspx?id=bed0bd2d-0c30-4bab-932f-a95700d62b67
+
 ## Installation
 * location: `dm11/imaging/LM/Imaris_Workshop`
 * installation license: `*.lic` file
