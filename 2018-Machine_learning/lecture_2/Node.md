@@ -18,6 +18,12 @@ $\min_\theta \sum_{i=1}^N L(y_i, f(x_i, \theta)) + R(\theta)$
 5. optimization algorithm
 
 ## Generalizaed linear models
+https://en.wikipedia.org/wiki/Generalized_linear_model
+
 * linear $\theta={w, b}$ st. $u = w^T x + b$
 * nonlinaer $\hat{y}=f(u)$
+* the inverse of the nonlinearity $f^{-1}$ is the link function
 
+### Logistic regression -- binary classification
+* logistic sigmoid nonlinearity -- $f(u) = \frac{1}{1+exp(-u)}$
+* loss function -- cross-entropy $-\sum_i y_i log \hat{y}_i +(1-y_i)log(1-\hat{y}_i)$
