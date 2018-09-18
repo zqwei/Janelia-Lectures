@@ -12,7 +12,7 @@ $x -> y$ using $f(x, \theta)$, $\theta$ is parameter; $f$ is a family of functio
 $\min_\theta \sum_{i=1}^N L(y_i, f(x_i, \theta)) + R(\theta)$
 
 1. examples/ data $(x_i, y_i)$
-2. prediction function $f(x_i, \theta)$
+2. prediction function $\hat{y_i}=f(x_i, \theta)$
 3. scoring/ objective/ loss function $L$
 4. regularization function $R(\theta)$
 5. optimization algorithm
@@ -34,6 +34,23 @@ https://en.wikipedia.org/wiki/Generalized_linear_model
 * decoding problem
 
 ### Poisson regression
-* $y(t) \tilde \Poiss (\hat{y}(t))$
+* $y(t) \tilde \text{Poiss} (\hat{y}(t))$
 * $f(u) = \exp(u)$
 * loss function $\sum_i \hat{y}_i - y_i\log\hat{y}_i$
+
+## Sparse regression
+https://en.wikipedia.org/wiki/Regularization_(mathematics)
+
+* how to find infomative features
+* penality for using features
+* trade off between $R(\theta)$ and $L(y, \hat{y})$
+* standand choice -- $R(w)=||w||_1$
+
+### Lasso -- sparse L1 regularized regression
+https://en.wikipedia.org/wiki/Lasso_(statistics)
+
+* Lasso path diagram (x-axis -- decreasing $\lambda$ or penality)
+
+![](http://scikit-learn.org/stable/_images/sphx_glr_plot_lasso_lars_001.png)
+
+* l1 based feature selection
