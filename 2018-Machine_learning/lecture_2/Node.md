@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/Generalized_linear_model
 * the inverse of the nonlinearity $f^{-1}$ is the link function
 
 ### Logistic regression -- binary classification
-* logistic sigmoid nonlinearity -- $f(u) = \frac{1}{1+exp(-u)}$
+* logistic sigmoid nonlinearity -- $f(u) = \frac{1}{1+\exp(-u)}$
 * loss function -- cross-entropy $-\sum_i y_i \log \hat{y}_i +(1-y_i)\log(1-\hat{y}_i)$
 
 ## Neural data analysis
@@ -34,6 +34,6 @@ https://en.wikipedia.org/wiki/Generalized_linear_model
 * decoding problem
 
 ### Poisson regression
-* $y(t) ~ Poiss (\hat{y}(t))$
+* $y(t) \~ Poiss (\hat{y}(t))$
 * $f(u) = \exp(u)$
 * loss function $\sum_i \hat{y}_i - y_i\log\hat{y}_i$
