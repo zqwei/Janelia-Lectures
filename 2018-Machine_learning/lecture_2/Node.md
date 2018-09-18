@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Generalized_linear_model
 * decoding problem
 
 ### Poisson regression
-* $y(t) \tilde \text{Poiss} (\hat{y}(t))$
+* $y(t) \tilde$ Poiss$ (\hat{y}(t))$
 * $f(u) = \exp(u)$
 * loss function $\sum_i \hat{y}_i - y_i\log\hat{y}_i$
 
