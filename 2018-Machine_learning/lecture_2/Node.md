@@ -29,6 +29,7 @@ https://en.wikipedia.org/wiki/Generalized_linear_model
 * loss function -- cross-entropy $-\sum_i y_i \log \hat{y}_i +(1-y_i)\log(1-\hat{y}_i)$
 
 ## Neural data analysis
+![](BMI_diag.png)
 
 * encoding problem
 * decoding problem
