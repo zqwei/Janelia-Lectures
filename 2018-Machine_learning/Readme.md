@@ -1,7 +1,7 @@
 ## Machine learning course in JRC
 
 ## Fork with revisions
-This is a fork from https://github.com/bogovicj/JaneliaMLCourse
+* Lecture #1 is a fork from https://github.com/bogovicj/JaneliaMLCourse
 
 ### Original license
 https://github.com/bogovicj/JaneliaMLCourse/blob/master/LICENSE
