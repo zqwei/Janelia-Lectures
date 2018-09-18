@@ -9,7 +9,7 @@ $x -> y$ using $f(x, \theta)$, $\theta$ is parameter; $f$ is a family of functio
 
 ## What and how of supervised learning
 
-$\min_\theta \Sum_{i=1}^N L(y_i, f(x_i, \theta)) + R(\theta)$
+$\min_\theta \sum_{i=1}^N L(y_i, f(x_i, \theta)) + R(\theta)$
 
 1. examples/ data $(x_i, y_i)$
 2. prediction function $f(x_i, \theta)$
