@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Generalized_linear_model
 * decoding problem
 
 ### Poisson regression
-* $y(t) \tilde$ Poiss$ (\hat{y}(t))$
+* $y(t)$ ~Poiss$ (\hat{y}(t))$
 * $f(u) = \exp(u)$
 * loss function $\sum_i \hat{y}_i - y_i\log\hat{y}_i$
 
@@ -54,3 +54,5 @@ https://en.wikipedia.org/wiki/Lasso_(statistics)
 ![](http://scikit-learn.org/stable/_images/sphx_glr_plot_lasso_lars_001.png)
 
 * l1 based feature selection
+
+## Cross-validation
