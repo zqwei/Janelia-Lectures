@@ -72,7 +72,7 @@ https://en.wikipedia.org/wiki/Lasso_(statistics)
 4. Open and run the NeuralMLHints.ipynb notebook
 
 ### Exercises
-1. Decode hand position from neural activity using a linear decoder
-2. Find the 10 best neurons for decoding hand position
+1. Decode hand position from neural activity using a linear decoder (Ridge regression)
+2. Find the 10 best neurons for decoding hand position (Multi task Lasso regression)
 3. Build the best possible nonlinear decoder
 4. Build an encoding model for neuron 0 to predict neural activity from hand position and velocity using a linear-nonlinear-Poisson GLM
