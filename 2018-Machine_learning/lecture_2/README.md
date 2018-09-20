@@ -98,3 +98,6 @@ https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgb
 2. Find the 10 best neurons for decoding hand position (Multi task Lasso regression)
 3. Build the best possible nonlinear decoder
 4. Build an encoding model for neuron 0 to predict neural activity from hand position and velocity using a linear-nonlinear-Poisson GLM
+
+### Links
+https://github.com/KordingLab/spykesML
