@@ -58,6 +58,28 @@ https://en.wikipedia.org/wiki/Lasso_(statistics)
 
 ## Cross-validation
 
+### Cross validation of time series data
+Time series data is characterised by the correlation between observations that are near in time (autocorrelation). However, classical cross-validation techniques such as `KFold` and `ShuffleSplit` assume the samples are independent and identically distributed, and would result in unreasonable correlation between training and testing instances (yielding poor estimates of generalisation error) on time series data. Therefore, it is very important to evaluate our model for time series data on the “future” observations least like those that are used to train the model. To achieve this, one solution is provided by `TimeSeriesSplit`.
+
+
+## Ensemble learning
+http://www.scholarpedia.org/article/Ensemble_learning
+
+https://github.com/KordingLab/Neural_Decoding
+
+https://arxiv.org/pdf/1708.00909.pdf
+
+* Bagging
+* Boosting
+* AdaBoost
+
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+
+
+### Random forest regression
+
+#### XGBoost
+https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
 
 ## Exercises and milestones for lab 2
 
