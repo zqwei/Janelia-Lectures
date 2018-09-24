@@ -54,3 +54,6 @@ Andrews et al., 2011, CBE - Life Sceience Education
 
 ## Useful website:
 http://www.scienceintheclassroom.org/
+
+## Materials
+https://www.dropbox.com/work/Lectures/Janelia%202018%20workshop%20materials
