@@ -2,3 +2,5 @@ example_data/
 *.csv
 *.pickle
 .ipynb_checkpoints
+.DS_Store
+.npy
