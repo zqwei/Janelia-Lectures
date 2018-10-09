@@ -3,4 +3,4 @@ example_data/
 *.pickle
 .ipynb_checkpoints
 .DS_Store
-.npy
+*.npy
