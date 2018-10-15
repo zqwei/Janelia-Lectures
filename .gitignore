@@ -4,3 +4,5 @@ example_data/
 .ipynb_checkpoints
 .DS_Store
 *.npy
+*.png
+*.jpg
